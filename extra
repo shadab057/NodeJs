@@ -1,1 +1,41 @@
-https:
+// https:
+
+// Nexes repo
+
+
+Json 
+> JavaScript Object Notation
+> Way to represent data
+> key value
+
+/*
+[
+{
+"name": "John",
+"city":"Amsterdam"
+},
+{
+"name": "Nikhita",   // UNSTRUCTURED DATA
+"city": "London"
+},
+{
+"name": "Aman",
+"city": "Pune",
+"age": 10
+}
+ ]
+ */
+
+
+ ///PACKAGE.JSON   ........
+ > Entry point to app
+ > Contains packages used in app
+ > Script (start,test)
+ Meta 
+
+
+ /*
+ step Generate to denerate package.json
+ NodeJs must be install in laptop
+ */
+ 

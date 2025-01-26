@@ -1,0 +1,35 @@
+Json 
+> JavaScript Object Notation
+> Way to represent data
+> key value
+[
+{
+"name": "John",
+"city":"Amsterdam"
+},
+{
+"name": "Nikhita",   UNSTRUCTURED DATA
+"city": "London"
+},
+"name": "Aman",
+"city": "Pune",
+"age": 10
+}
+ ]
+
+///PACKAGE.JSON   ........
+ > Entry point to app
+ > Contains packages used in app
+ > Script (start, test)
+ > Meta (name, version, description)
+
+ /*
+ step Generate to generate package. Son.
+ NodeJS must be install in laptop
+- Go inside folder using a terminal/cmd
+- Npm i package name / npm install packagename.
+-
+
+ */
+
+ 
